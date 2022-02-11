@@ -1,0 +1,4 @@
+cpu: a_int
+input_bam:
+  class: File
+  path: path/to/bam
